@@ -1,0 +1,5 @@
+Credentials cache: API:4423
+        Principal: abouchfa@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 15:21:00 2021  Sep 27 15:20:46 2021  krbtgt/1337.MA@1337.MA
